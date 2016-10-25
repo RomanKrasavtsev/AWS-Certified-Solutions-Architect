@@ -8,7 +8,9 @@
   - Versioning
   - CLI
 - CloudFront
-- Route53 and DNS Failover
+- Route53
+  - DNS Failover
+  - Latency Based Routing
 
 # Resources
  - https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
