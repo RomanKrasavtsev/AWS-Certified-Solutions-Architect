@@ -12,6 +12,7 @@
   - DNS Failover
   - Latency Based Routing
   - Weighted Routing Policies
+- EC2
 
 # Resources
  - https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
